@@ -1,0 +1,12 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "temperature"
+    ],
+    "data": [
+      [
+        23.7
+      ]
+    ]
+  }
+}

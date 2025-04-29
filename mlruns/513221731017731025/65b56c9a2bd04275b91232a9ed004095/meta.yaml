@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Github%20Projects/Training-Wheels/mlruns/513221731017731025/65b56c9a2bd04275b91232a9ed004095/artifacts
+end_time: 1745890856437
+entry_point_name: ''
+experiment_id: '513221731017731025'
+lifecycle_stage: active
+run_id: 65b56c9a2bd04275b91232a9ed004095
+run_name: powerful-sheep-642
+run_uuid: 65b56c9a2bd04275b91232a9ed004095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745890852124
+status: 3
+tags: []
+user_id: vinic

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Github%20Projects/Training-Wheels/mlruns/513221731017731025/6f8a263f44a243aa8bf45210b051420e/artifacts
+end_time: 1745890757350
+entry_point_name: ''
+experiment_id: '513221731017731025'
+lifecycle_stage: active
+run_id: 6f8a263f44a243aa8bf45210b051420e
+run_name: amusing-bass-512
+run_uuid: 6f8a263f44a243aa8bf45210b051420e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745890752764
+status: 3
+tags: []
+user_id: vinic
